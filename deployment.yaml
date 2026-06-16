@@ -17,7 +17,7 @@ spec:
       containers:
       - name: mj-gitops-app
         # CHANGE THIS TO YOUR DOCKER HUB USERNAME
-        image: jerry1808/mj-gitops-app:v1.0.0 
+        image: jerry1808/mj-gitops-app:122f8a7
         ports:
         - containerPort: 8008
         resources:
